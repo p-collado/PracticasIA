@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <command>C:\moai\bin\Win32\moai.exe</command>
+  <working_directory>C:\Users\pedro\Documents\Practicas\IA\esqueleto\practicas\04_Introduccion_Lua\Practica 2</working_directory>
+  <symbols_directory></symbols_directory>
+  <command_arguments>main.lua</command_arguments>
+  <scc>
+    <provider></provider>
+    <user></user>
+    <project_name></project_name>
+    <local_path></local_path>
+    <aux_project_path></aux_project_path>
+  </scc>
+</project>

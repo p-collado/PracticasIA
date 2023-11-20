@@ -1,0 +1,44 @@
+<criaturas>
+    <criatura>
+        <name> dragon </name>
+        <texture> creatures/dragon.png </texture>
+        <size>
+            <X> 128 </X>
+            <Y> 128 </Y>
+        </size>
+    </criatura>
+    <criatura>
+        <name> mago </name>
+        <texture> creatures/mage.png </texture>
+        <size>
+            <X> 64 </X>
+            <Y> 64 </Y>
+        </size>
+    </criatura>
+    <criatura>
+        <name> peon </name>
+        <texture> creatures/peon.png </texture>
+        <size>
+            <X> 32 </X>
+            <Y> 32 </Y>
+        </size>
+    </criatura>
+    <criatura>
+        <name> grunt </name>
+        <texture> creatures/grunt.png </texture>
+        <size>
+            <X> 72 </X>
+            <Y> 72 </Y>
+        </size>
+    </criatura>
+    <criatura>
+        <name> grifo </name>
+        <texture> creatures/gryphon.png </texture>
+        <size>
+            <X> 92 </X>
+            <Y> 92 </Y>
+        </size>
+    </criatura>
+</criaturas>
+
+            
